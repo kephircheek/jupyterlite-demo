@@ -1,6 +1,7 @@
 {
   "PipliteAddon": {
     "piplite_urls": [
+      "https://cdn.lazarev.fun/wheels/qutip-5.3.0.dev0+87e1a02-cp313-cp313-pyodide_2025_0_wasm32.whl",
       "https://cdn.lazarev.fun/wheels/pylatexenc-2.10-py3-none-any.whl",
       "https://cdn.lazarev.fun/wheels/qiskit-2.4.0.dev0-cp310-abi3-pyodide_2025_0_wasm32.whl"
     ]
